@@ -115,8 +115,8 @@ body {
 }
 
 .hero-section .lady-image {
-  background: url("https://i.ibb.co/t8B5Y8L/landing-page-girl.png") bottom left /
-    contain no-repeat;
+/*  background: url("https://i.ibb.co/t8B5Y8L/landing-page-girl.png") bottom left /
+    contain no-repeat; */
   flex-grow: 1;
   min-width: 30vw;
   max-height: 70vh;
